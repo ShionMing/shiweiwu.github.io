@@ -36,7 +36,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 
 [ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities](docs/ComViewer.pdf)
 
-**Shiwei Wu**, Mingxiang Wang, Chuhan Shi, and Zhenhui Peng
+**Shiwei Wu**, Mingxiang Wang, [Chuhan Shi](https://shichuhan.github.io/), and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project**](https://github.com/ShionMing/ComViewer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,7 +48,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 
 [Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.](https://arxiv.org/pdf/2411.19169)
 
-Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhui Peng
+Zhiqing Wang, [Haoxiang Fan](https://fanhaoxiang.top/), Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -60,7 +60,7 @@ Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhu
 
 [Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.](docs/ICWSM24.pdf)
 
-Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Peng
+Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?user=1oQLwqMAAAAJ&hl=en), Han Zhang, Qingyu Guo, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -68,11 +68,13 @@ Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Pen
 </div>
 
 ## Under review
-- [One paper about Creative Support Tools submitted to **UIST25**], **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, Wei Zeng, [Zhenhui Peng](https://zhenhuipeng.com/)
-- [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, Jiaye Leng, Jian Zeng, Zhenhui Peng, Chun Yu.
-- [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, Xingbo Wang, Longfei Chen, Chuhan Shi, Zhenhui Peng.
+- [One paper about Creative Support Tools submitted to **UIST25**], **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
+- [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
+- [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
-
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -85,5 +87,4 @@ Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Pen
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
