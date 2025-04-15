@@ -22,7 +22,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 
 
 # 🔥 News
-- *2025.04.10*: &nbsp;🎉🎉 One work on creative support tool (collaborate with HKUST(guangzhou)) and one work on human-AI collaboration (collaborate with Tinghua) submitted to UIST25.
+- *2025.04.10*: &nbsp;🎉🎉 One work on creative support tool and one work on human-AI collaboration submitted to UIST25.
 - *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Zhenhui Peng
 - *2025.01.21*: &nbsp;🎉🎉 Tinghua Intern.
 - *2025.01.17*: &nbsp;🎉🎉 One work on online community conversational search sumitted to IJHCS.
@@ -73,18 +73,16 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 - [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- 
+- *2025.01 - 2025.04*, [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, China.
+  
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Third Prize, “Huawei Cup” The 20th China post-graduate mathematical contest in modeling
+- *2023* Provincial-Level Merit Student and Provincial-Level Outstanding Graduate(Top 1%)
+- 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
