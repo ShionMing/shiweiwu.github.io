@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by Prof. Zhenhui Peng. Currently my research focuses on **Creativity Support, Human-AI Collabration, Conversational Search, and Visualization**.
+Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support, Human-AI Collabration, Conversational Search, and Visualization**.
+Now, I am looking for co-authors and a PhD position. Please see my [CV]() for more details.
 
 
 
@@ -72,6 +73,10 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 - [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
 - [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
+# 📖 Educations
+- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
+- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
+
 # 💻 Internships
 - *2025.01 - 2025.04*, [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, China.
   
@@ -79,9 +84,6 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 - *2024* Third Prize, “Huawei Cup” The 20th China post-graduate mathematical contest in modeling
 - *2023* Provincial-Level Merit Student and Provincial-Level Outstanding Graduate (Top 1%)
 
-# 📖 Educations
-- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
-- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
 
 
 
