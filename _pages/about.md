@@ -30,7 +30,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities]([https://arxiv.org/pdf/2411.19169)]
+[ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities]([https://arxiv.org/pdf/2411.19169])
 
 **Shiwei Wu**, Mingxiang Wang, Chuhan Shi, and Zhenhui Peng
 
@@ -42,7 +42,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]([https://arxiv.org/pdf/2411.19169)]
+[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]([https://arxiv.org/pdf/2411.19169])
 
 Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhui Peng
 
@@ -54,7 +54,7 @@ Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.]([https://ojs.aaai.org/index.php/ICWSM/article/view/31362/33522])]
+[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.]([https://ojs.aaai.org/index.php/ICWSM/article/view/31362/33522])
 
 Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Peng
 
