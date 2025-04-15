@@ -22,8 +22,12 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04.10*: &nbsp;🎉🎉 One work on creative support tool (collaborate with HKUST(guangzhou)) and one work on human-AI collaboration (collaborate with Tinghua) submitted to UIST25.
+- *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Zhenhui Peng
+- *2025.01.21*: &nbsp;🎉🎉 Tinghua Intern.
+- *2025.01.17*: &nbsp;🎉🎉 One work on online community conversational search sumitted to IJHCS.
+- *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
+- *2024.03.16*: &nbsp;🎉🎉 One paper: "Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities." is accepted to **ICWSM 2024**. Congrat to Shuailin Li, Tianjian Liu, Han Zhang, Qingyu Guo, and Prof.Zhenhui Peng
 
 # 📝 Publications 
 
