@@ -77,12 +77,11 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
   
 # 🎖 Honors and Awards
 - *2024* Third Prize, “Huawei Cup” The 20th China post-graduate mathematical contest in modeling
-- *2023* Provincial-Level Merit Student and Provincial-Level Outstanding Graduate(Top 1%)
-- 
+- *2023* Provincial-Level Merit Student and Provincial-Level Outstanding Graduate (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
+- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
 
 
 
