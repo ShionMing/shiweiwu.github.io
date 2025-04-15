@@ -67,6 +67,11 @@ Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Pen
 </div>
 </div>
 
+## Under review
+- [One paper about Creative Support Tools submitted to **UIST25**], **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, Wei Zeng, [Zhenhui Peng](https://zhenhuipeng.com/)
+- [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, Jiaye Leng, Jian Zeng, Zhenhui Peng, Chun Yu.
+- [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, Xingbo Wang, Longfei Chen, Chuhan Shi, Zhenhui Peng.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
