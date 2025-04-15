@@ -42,11 +42,11 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='../images/askart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]([https://arxiv.org/pdf/2411.19169])
+[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.](https://arxiv.org/pdf/2411.19169)
 
 Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhui Peng
 
-[**Project to appear**](https://github.com/ShionMing/ComViewer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -54,11 +54,11 @@ Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and Zhenhu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWSM 2024</div><img src='../images/icwsm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.]([../docs/ICWSM24.pdf])
+[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.](../docs/ICWSM24.pdf)
 
 Shuailin Li, **Shiwei Wu**, Tianjian Liu, Han Zhang, Qingyu Guo, and Zhenhui Peng
 
-[**Project to appear**](https://github.com/ShionMing/ComViewer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
