@@ -27,7 +27,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='../images/comviewer.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='../images/comviewer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities](../docs/ComViewer.pdf)
