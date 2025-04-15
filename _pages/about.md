@@ -39,7 +39,7 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWSM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]([https://arxiv.org/pdf/2411.19169])
