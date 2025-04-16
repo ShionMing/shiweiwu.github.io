@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support, Human-AI Collabration, Conversational Search, and Visualization**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV](docs/shiweiwu_cv.pdf) for more details.
+Now, I am looking for co-authors and a PhD position. Please see my [CV](../docs/shiweiwu_cv.pdf) for more details.
 
 
 
@@ -33,18 +33,19 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](docs/shi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/comviewer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities](docs/ComViewer.pdf)
+[ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities]()
 
 **Shiwei Wu**, Mingxiang Wang, [Chuhan Shi](https://shichuhan.github.io/), and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project**](https://github.com/ShionMing/ComViewer) 
+[**PDF**](https://arxiv.org/pdf/2411.19169)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/askart.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.](https://arxiv.org/pdf/2411.19169)
+[Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]()
 
 Zhiqing Wang, [Haoxiang Fan](https://fanhaoxiang.top/), Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
@@ -55,11 +56,11 @@ Zhiqing Wang, [Haoxiang Fan](https://fanhaoxiang.top/), Qiaoyi Chen, **Shiwei Wu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICWSM 2024</div><img src='images/icwsm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.](docs/ICWSM24.pdf)
+[Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities.]()
 
 Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?user=1oQLwqMAAAAJ&hl=en), Han Zhang, Qingyu Guo, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
-[**PDF**](docs/ICWSM24.pdf)
+[**PDF**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1oQLwqMAAAAJ&citation_for_view=1oQLwqMAAAAJ:u5HHmVD_uO8C)
 </div>
 </div>
 
