@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shiwei Wu"
-  avatar           : "images/image.png"
+  avatar           : "images/myimage.png"
   bio              : "Sun Yat-sen University(SYSU)"
   location         : "Zhuhai, China"
   employer         :
