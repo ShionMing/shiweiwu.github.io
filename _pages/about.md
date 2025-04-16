@@ -77,7 +77,7 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
   
 # 🎖 Honors and Awards
 - *2024* Third Prize, “Huawei Cup” The 20th China post-graduate mathematical contest in modeling
-- *2023* Provincial-Level Merit Student and Provincial-Level Outstanding Graduate (Top 1%)
+- *2023* Provincial-Level Merit Student and Outstanding Graduate (Top 1%)
 
 
 
