@@ -21,13 +21,14 @@ Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Inte
 Now, I am looking for co-authors and a PhD position. Please see my [CV](../docs/shiweiwu_cv.pdf) for more details.
 
 
-
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Zhenhui Peng
 - *2025.01.21*: &nbsp;🎉🎉 Tsinghua Intern.
 - *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
 - *2024.03.16*: &nbsp;🎉🎉 One paper: "Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities." is accepted to **ICWSM 2024**. Congrat to Shuailin Li, Tianjian Liu, Han Zhang, Qingyu Guo, and Prof.Zhenhui Peng
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/comviewer.png' alt="sym" width="100%"></div></div>
@@ -69,17 +70,18 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 - [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
 - [One paper about online community conversational search submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
-# 📖 Educations
-- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
-- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
-
-# 💻 Internships
-- *2025.01 - 2025.04*, [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, China.
-  
+<span class='anchor' id='honors-and-awards'></span>  
 # 🎖 Honors and Awards
 - *2024* Third Prize, “Huawei Cup” The 20th China post-graduate mathematical contest in modeling
 - *2023* Provincial-Level Merit Student and Outstanding Graduate (Top 1%)
 
+<span class='anchor' id='education'></span>
+# 📖 Educations
+- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
+- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
 
+<span class='anchor' id='internships'></span>
+# 💻 Internships
+- *2025.01 - 2025.04*, [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, China.
 
 
