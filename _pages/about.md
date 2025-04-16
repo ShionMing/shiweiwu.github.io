@@ -18,15 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support, Human-AI Collabration, Conversational Search, and Visualization**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV]() for more details.
+Now, I am looking for co-authors and a PhD position. Please see my [CV](docs/shiweiwu_cv.pdf) for more details.
 
 
 
 # 🔥 News
-- *2025.04.10*: &nbsp;🎉🎉 One work on creative support tool and one work on human-AI collaboration submitted to UIST25.
 - *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Zhenhui Peng
-- *2025.01.21*: &nbsp;🎉🎉 Tinghua Intern.
-- *2025.01.17*: &nbsp;🎉🎉 One work on online community conversational search sumitted to IJHCS.
+- *2025.01.21*: &nbsp;🎉🎉 Tsinghua Intern.
 - *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
 - *2024.03.16*: &nbsp;🎉🎉 One paper: "Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities." is accepted to **ICWSM 2024**. Congrat to Shuailin Li, Tianjian Liu, Han Zhang, Qingyu Guo, and Prof.Zhenhui Peng
 
@@ -39,8 +37,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV]() for mo
 
 **Shiwei Wu**, Mingxiang Wang, [Chuhan Shi](https://shichuhan.github.io/), and [Zhenhui Peng](https://zhenhuipeng.com/)
 
-[**Project**](https://github.com/ShionMing/ComViewer) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/ShionMing/ComViewer) 
 </div>
 </div>
 
@@ -51,8 +48,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV]() for mo
 
 Zhiqing Wang, [Haoxiang Fan](https://fanhaoxiang.top/), Qiaoyi Chen, **Shiwei Wu**, Yongqi Liang, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
-[**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF to appear**]() 
 </div>
 </div>
 
@@ -63,8 +59,7 @@ Zhiqing Wang, [Haoxiang Fan](https://fanhaoxiang.top/), Qiaoyi Chen, **Shiwei Wu
 
 Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?user=1oQLwqMAAAAJ&hl=en), Han Zhang, Qingyu Guo, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
-[**Project to appear**]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](docs/ICWSM24.pdf)
 </div>
 </div>
 
