@@ -23,7 +23,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Zhenhui Peng
+- *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Prof.Zhenhui Peng
 - *2025.01.21*: &nbsp;🎉🎉 Tsinghua Intern.
 - *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
 - *2024.03.16*: &nbsp;🎉🎉 One paper: "Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities." is accepted to **ICWSM 2024**. Congrat to Shuailin Li, Tianjian Liu, Han Zhang, Qingyu Guo, and Prof.Zhenhui Peng
@@ -66,9 +66,9 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 </div>
 
 ## Under review
-- [One paper about Creative Supporting Tools submitted to **UIST25**], **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
-- [One paper about Human-AI collaboration submitted to **UIST25**], Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
-- [One paper about personalized conversational search tool submitted to **IJHCS**], **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
+- [One paper about Creative Supporting Tools submitted to **UIST25**] **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
+- [One paper about Human-AI collaboration submitted to **UIST25**] Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
+- [One paper about personalized conversational search tool submitted to **IJHCS**] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
 <span class='anchor' id='honors-and-awards'></span>  
 # 🎖 Honors and Awards
