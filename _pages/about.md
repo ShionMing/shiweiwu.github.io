@@ -28,7 +28,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 - *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
 - *2024.03.16*: &nbsp;🎉🎉 One paper: "Understanding the Features of Text-Image Posts and Their Received Social Support in Online Grief Support Communities." is accepted to **ICWSM 2024**. Congrat to Shuailin Li, Tianjian Liu, Han Zhang, Qingyu Guo, and Prof.Zhenhui Peng
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='-publications'></span>
 # 📝 Academic Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/comviewer.png' alt="sym" width="100%"></div></div>
