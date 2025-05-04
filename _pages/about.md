@@ -39,7 +39,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 **Shiwei Wu**, Mingxiang Wang, [Chuhan Shi](https://shichuhan.github.io/), and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project**](https://github.com/ShionMing/ComViewer) 
-[**PDF**](https://arxiv.org/pdf/2411.19169)
+[**Arxiv**](https://arxiv.org/pdf/2411.19169) [**ACM**](https://dl.acm.org/doi/10.1145/3710904)
 </div>
 </div>
 
