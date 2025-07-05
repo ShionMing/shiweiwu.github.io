@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support, Human-AI Collabration, Conversational Search, and Visualization**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1s1cX6kdk5LRrgAoSQkHx51h9r-Q6e3t1/view?usp=sharing) for more details.
+Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1C-HFyDh-CtloZTJaWvgLNjeIo798EGnF/view?usp=drive_link) for more details.
 
 
 <span class='anchor' id='news'></span>
@@ -65,7 +65,7 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 </div>
 </div>
 
-## Under review
+## Ongoing Research
 - [One paper about Creative Supporting Tools] **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
 - [One paper about Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
 - [One paper about personalized conversational search tool] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
