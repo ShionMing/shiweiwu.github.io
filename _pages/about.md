@@ -66,9 +66,9 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 </div>
 
 ## Ongoing Research
-- [One paper about Creative Supporting Tools] **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
-- [One paper about Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
-- [One paper about personalized conversational search tool] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
+- [Creative supporting tool] **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, [Wei Zeng](https://zeng-wei.com/), [Zhenhui Peng](https://zhenhuipeng.com/)
+- [Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
+- [Personalized conversational search tool] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
 <span class='anchor' id='honors-and-awards'></span>  
 # 🎖 Honors and Awards
