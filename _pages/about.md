@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search, and Visualization**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1C-HFyDh-CtloZTJaWvgLNjeIo798EGnF/view?usp=drive_link) for more details.
+Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1mDDVby20M7hmeAp_pgeN4Z9DEVSX1OGb/view?usp=sharing) for more details.
 
 
 <span class='anchor' id='news'></span>
