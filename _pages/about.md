@@ -48,7 +48,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 [Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools.]()
 
-[Zhiqing Wang](https://www.zhiqingwang.me/), [Haoxiang Fan](https://fanhaoxiang.top/), **Shiwei Wu**, Qiaoyi Chen, Yongqi Liang, and [Zhenhui Peng](https://zhenhuipeng.com/)
+[Zhiqing Wang](https://www.zhiqingwang.me/), [Haoxiang Fan](https://fanhaoxiang.top/), **Shiwei Wu^\***, Qiaoyi Chen^\*, Yongqi Liang, and [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**ACM**](https://dl.acm.org/doi/10.1145/3757476) 
 </div>
