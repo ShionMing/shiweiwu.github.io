@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Shiwei Wu, a second-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Wei Zeng](https://zeng-wei.com/), [Prof. Chuhan Shi](https://shichuhan.github.io/) and [Dr. Xingbo Wang](https://andy-xingbowang.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search, and Visualization**.
+Hi, I'm Shiwei Wu, a last-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Wei Zeng](https://zeng-wei.com/), [Prof. Chuhan Shi](https://shichuhan.github.io/) and [Dr. Xingbo Wang](https://andy-xingbowang.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search**.
 Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1uWYGJPp5Tdk7CegynFlx3uW-5wymqxPI/view?usp=sharing) for more details.
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.10.18*: &nbsp; I attended CSCW25 in Bergen, Norway 🇳🇴 and presented our papers and I will attend ICHEC25 in Singapore 🇸🇬.
+- *2025.11.21*: &nbsp; I attended ICHEC25 in Singapore 🇸🇬 and am thankful for the inspiration from the workshop and meaningful conversations with senior peers.
+- *2025.10.18*: &nbsp; I attended CSCW25 in Bergen, Norway 🇳🇴 and presented our papers.
 - *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Prof.Zhenhui Peng
 - *2025.01.21*: &nbsp;🎉🎉 Tsinghua Intern.
 - *2024.11.23*: &nbsp;🎉🎉 One paper: "ComViewer: An Interactive Visual Tool to Help Viewers Seek Social Support in Online Mental Health Communities" is accepted to **CSCW 2025**. Thanks to Prof.Zhenhui Peng, Prof.Chuhan Shi, and Mingxiang Wang.
