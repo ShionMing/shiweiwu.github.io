@@ -33,7 +33,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='-publications'></span>
 # 📝 Academic Papers
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/inkideator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/inkideator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings]()
