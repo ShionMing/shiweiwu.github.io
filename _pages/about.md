@@ -80,7 +80,6 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 </div>
 
 ## Under review
-- [Creative supporting tool] **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, Xia Chen, [Wei Zeng](https://zeng-wei.com/), [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Zhenhui Peng](https://zhenhuipeng.com/)
 - [Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, [Shuai Ma](https://shuaima.cc/), Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
 - [Personalized conversational search tool] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
