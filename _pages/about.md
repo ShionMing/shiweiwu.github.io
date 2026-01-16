@@ -23,6 +23,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.01.16*: &nbsp; 🎉🎉 One paper: "InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings" is conditionally accepted to **CHI 2026**. Thanks to Prof.Zhenhui Peng, Prof.Xiaojuan Ma, Prof.Wei Zeng, Dr.Ziyao Gao.
 - *2025.11.21*: &nbsp; I attended ICHEC25 in Singapore 🇸🇬 and am thankful for the inspiration from the workshop and meaningful conversations with senior peers.
 - *2025.10.18*: &nbsp; I attended CSCW25 in Bergen, Norway 🇳🇴 and presented our papers.
 - *2025.03.26*: &nbsp;🎉🎉 One paper: "Exploring the Usage of Generative AI for Group Project-Based Offline Art Courses in Elementary Schools" is accepted to **CSCW 2025**. Congrat to Zhiqing Wang, Haoxiang Fan, Qiaoyi Chen, Yongqi Liang, and Prof.Zhenhui Peng
@@ -32,6 +33,17 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='-publications'></span>
 # 📝 Academic Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/inkideator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings]()
+
+**Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, Xia Chen, [Wei Zeng](https://zeng-wei.com/), [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Zhenhui Peng](https://zhenhuipeng.com/)
+
+[**Project to Appear**]() 
+[**Arxiv to Appear**]()
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/comviewer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
