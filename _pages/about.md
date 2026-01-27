@@ -40,8 +40,8 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 **Shiwei Wu**, Ziyao Gao, Zhendong He, Zongtan He, Zhupeng Huang, Xia Chen, [Wei Zeng](https://zeng-wei.com/), [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Zhenhui Peng](https://zhenhuipeng.com/)
 
-[**Project to Appear**]() 
-[**Arxiv to Appear**]()
+[**Project**](https://github.com/ShionMing/InkIdeator) 
+[**Arxiv**](http://arxiv.org/abs/2601.18193)
 </div>
 </div>
 
