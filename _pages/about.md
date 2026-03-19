@@ -23,6 +23,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.03.19*: &nbsp; 🎉🎉 One paper: "ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas" is conditionally accepted to **DIS 2026**. Huge thanks to Prof.Zhenhui Peng, Xinyue, Yuheng, Dr.Xingbo Wang, Prof.Chuhan Shi, Dr.Qingyu Guo and Dr.Longfei Chen.
 - *2026.01.16*: &nbsp; 🎉🎉 One paper: "InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings" is conditionally accepted to **CHI 2026**. Thanks to Prof.Zhenhui Peng, Prof.Xiaojuan Ma, Prof.Wei Zeng, Dr.Ziyao Gao.
 - *2025.11.21*: &nbsp; I attended ICHEC25 in Singapore 🇸🇬 and am thankful for the inspiration from the workshop and meaningful conversations with senior peers.
 - *2025.10.18*: &nbsp; I attended CSCW25 in Bergen, Norway 🇳🇴 and presented our papers.
@@ -33,6 +34,21 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 
 <span class='anchor' id='-publications'></span>
 # 📝 Academic Papers
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DIS 2026</div><img src='images/consearcher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas]()
+
+**Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/)
+
+[**Project to appear**]() 
+[**Arxiv to appear**]()
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/comviewer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/inkideator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,7 +97,6 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 
 ## Under review
 - [Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, [Shuai Ma](https://shuaima.cc/), Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
-- [Personalized conversational search tool] **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Longfei Chen](https://chenlf126.github.io/), [Qingyu Guo](https://qingyuguo.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/).
 
 <span class='anchor' id='honors-and-awards'></span>  
 # 🎖 Honors and Awards
