@@ -42,7 +42,7 @@ Now, I am looking for co-authors and a PhD position. Please see my [CV](https://
 **Shiwei Wu**, Xinyue Chen, Yuheng Liu, [Xingbo Wang](https://andy-xingbowang.com/), [Qingyu Guo]([https://qingyuguo.github.io/](https://scholar.google.com/citations?hl=zh-CN&user=4Y2pzk0AAAAJ&view_op=list_works&sortby=pubdate)), [Longfei Chen](https://chenlf126.github.io/), [Chuhan Shi](https://shichuhan.github.io/), [Zhenhui Peng](https://zhenhuipeng.com/)
 
 [**Project to appear**]() 
-[**Arxiv to appear**]()
+[**Arxiv**](https://arxiv.org/abs/2603.19747)
 </div>
 </div>
 
