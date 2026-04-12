@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Shiwei Wu, a last-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Chuhan Shi](https://shichuhan.github.io/), [Dr. Xingbo Wang](https://andy-xingbowang.com/) and [Prof. Wei Zeng](https://zeng-wei.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV](https://drive.google.com/file/d/1uWYGJPp5Tdk7CegynFlx3uW-5wymqxPI/view?usp=sharing) for more details.
+Now, I am looking for co-authors and a PhD position. Please see my [CV]() for more details.
 
 
 <span class='anchor' id='news'></span>
@@ -101,9 +101,7 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 - *2023* Provincial-Level Merit Student and Outstanding Graduate (Top 1%)
 
 <span class='anchor' id='education'></span>
-# 📖 Educations
-- *2023.09 - present*, Master, School of Artificial Intelligence, Sun Yat-sen University (SYSU)
-- *2019.09 - 2023.06*, Bachelor, School of Artificial Intelligence and Data Science, Hebei University of Technology (HEBUT)
+
 
 <span class='anchor' id='internships'></span>
 # 💻 Internships
