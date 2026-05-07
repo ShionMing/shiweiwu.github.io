@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Shiwei Wu, a last-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Chuhan Shi](https://shichuhan.github.io/), [Dr. Xingbo Wang](https://andy-xingbowang.com/) and [Prof. Wei Zeng](https://zeng-wei.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search**.
-Now, I am looking for co-authors and a PhD position. Please see my [CV]() for more details.
+Hi, I'm Shiwei Wu, a last-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also an incoming Ph.D. student at National University of Singapore [AI4SG](https://www.ai4sg.org/),advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Chuhan Shi](https://shichuhan.github.io/), [Dr. Xingbo Wang](https://andy-xingbowang.com/) and [Prof. Wei Zeng](https://zeng-wei.com/). Currently my research focuses on **Creativity Support, Human-AI Collaboration, Conversational Search**.
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.04.13*: &nbsp; I attended CHI26 in Barcelona, Spain 🇪🇸 and presented our paper.
 - *2026.03.19*: &nbsp; 🎉🎉 One paper: "ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas" is conditionally accepted to **DIS 2026**. Huge thanks to Prof.Zhenhui Peng, Xinyue, Yuheng, Dr.Xingbo Wang, Prof.Chuhan Shi, Dr.Qingyu Guo and Dr.Longfei Chen.
 - *2026.01.16*: &nbsp; 🎉🎉 One paper: "InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings" is conditionally accepted to **CHI 2026**. Thanks to Prof.Zhenhui Peng, Prof.Xiaojuan Ma, Prof.Wei Zeng, Dr.Ziyao Gao.
 - *2025.11.21*: &nbsp; I attended ICHEC25 in Singapore 🇸🇬 and am thankful for the inspiration from the workshop and meaningful conversations with senior peers.
