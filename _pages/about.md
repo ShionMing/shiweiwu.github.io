@@ -24,7 +24,7 @@ Feel free to [contact me](wushw28@mail2.sysu.edu.cn) if you're interested in HCI
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.04.13*: &nbsp; I attended CHI26 in Barcelona, Spain 🇪🇸 and presented our paper.
+- *2026.04.13*: &nbsp; I attended CHI26 in Barcelona, Spain 🇪🇸 and presented our paper.
 - *2026.03.19*: &nbsp; 🎉🎉 One paper: "ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas" is conditionally accepted to **DIS 2026**. Huge thanks to Prof.Zhenhui Peng, Xinyue, Yuheng, Dr.Xingbo Wang, Prof.Chuhan Shi, Dr.Qingyu Guo and Dr.Longfei Chen.
 - *2026.01.16*: &nbsp; 🎉🎉 One paper: "InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings" is conditionally accepted to **CHI 2026**. Thanks to Prof.Zhenhui Peng, Prof.Xiaojuan Ma, Prof.Wei Zeng, Dr.Ziyao Gao.
 - *2025.11.21*: &nbsp; I attended ICHEC25 in Singapore 🇸🇬 and am thankful for the inspiration from the workshop and meaningful conversations with senior peers.
