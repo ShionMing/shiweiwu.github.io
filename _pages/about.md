@@ -19,11 +19,12 @@ redirect_from:
 
 Hi, I'm Shiwei Wu, a last-year Master student at the School of Artificial Intelligence at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). I am also an incoming Ph.D. student at National University of Singapore [AI4SG](https://www.ai4sg.org/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). I am also honored to collaborate with [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/), [Prof. Chuhan Shi](https://shichuhan.github.io/), [Dr. Xingbo Wang](https://andy-xingbowang.com/) and [Prof. Wei Zeng](https://zeng-wei.com/). Currently my research focuses on **Creativity Support Tools, Human-AI Collaboration, Conversational Interface**.
 
-Feel free to [contact me](wushw28@mail2.sysu.edu.cn) if you're interested in HCI or my work. I'm always happy to collaborate, chat, or just brainstorm — especially about using AI to amplify human creativity and for social good.
+Feel free to [contact me](shiwei.wu@u.nus.edu) if you're interested in HCI or my work. I'm always happy to collaborate, chat, or just brainstorm — especially about using AI to amplify human creativity and for social good.
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.06.13*: &nbsp; I attended DIS26 in Singapore 🇸🇬 and presented our paper with Xinyue.
 - *2026.04.13*: &nbsp; I attended CHI26 in Barcelona, Spain 🇪🇸 and presented our paper.
 - *2026.03.19*: &nbsp; 🎉🎉 One paper: "ConSearcher: Supporting Conversational Information Seeking in Online Communities with Member Personas" is conditionally accepted to **DIS 2026**. Huge thanks to Prof.Zhenhui Peng, Xinyue, Yuheng, Dr.Xingbo Wang, Prof.Chuhan Shi, Dr.Qingyu Guo and Dr.Longfei Chen.
 - *2026.01.16*: &nbsp; 🎉🎉 One paper: "InkIdeator: Supporting Chinese-Style Visual Design Ideation via AI-Infused Exploration of Chinese Paintings" is conditionally accepted to **CHI 2026**. Thanks to Prof.Zhenhui Peng, Prof.Xiaojuan Ma, Prof.Wei Zeng, Dr.Ziyao Gao.
