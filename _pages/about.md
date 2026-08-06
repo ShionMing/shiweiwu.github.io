@@ -95,7 +95,7 @@ Shuailin Li, **Shiwei Wu**, [Tianjian Liu](https://scholar.google.com/citations?
 </div>
 </div>
 
-## Under review
+## Under submission
 - [Human-AI collaboration] Zipeng Zhang, **Shiwei Wu**, [Shuai Ma](https://shuaima.cc/), Ran Ran, Qingyang Zhou, KIN WANG LAU, Ranrui Ma, [Jiaye Leng](https://jiayeleng.github.io/), Jian Zeng, [Zhenhui Peng](https://zhenhuipeng.com/), [Chun Yu](https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/).
 
 <span class='anchor' id='honors-and-awards'></span>  
