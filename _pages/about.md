@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Shiwei Wu, a PhD student in Computer Science at the National University of Singapore (NUS), [AI4SG](https://www.ai4sg.org/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). Previous, I earned my master's degree at Sun Yat-sen University (SYSU), supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support Tools, Human-AI Collaboration, Conversational Interface**.
+Hi, I'm Shiwei Wu, a PhD student in Computer Science at the National University of Singapore (NUS) and a member of [AI4SG Lab](https://www.ai4sg.org/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). Previously, I earned my master's degree at Sun Yat-sen University (SYSU), where I was supervised by [Prof. Zhenhui Peng](https://zhenhuipeng.com/). Currently my research focuses on **Creativity Support Tools abd Human-AI Collaboration**.
 
 Feel free to [contact me](shiwei.wu@u.nus.edu) if you're interested in HCI or my work.
 
