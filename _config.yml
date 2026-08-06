@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shiwei Wu"
-description              : "School of Artificial Intelligence"
+description              : "School of Computing"
 repository               : "https://github.com/ShionMing/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shiwei Wu"
   avatar           : "images/myimage.png"
-  bio              : "Sun Yat-sen University(SYSU)"
-  location         : "Zhuhai, China"
+  bio              : "National University of Singapore (NUS)"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=B-ofYzsAAAAJ"
